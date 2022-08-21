@@ -64,7 +64,7 @@ Done by myself:
 ---
 
 ## Cкриншот/Screenshot
-![](photo/generator.jpg)
+![](photo/photo.jpg)
 
 ---
 
